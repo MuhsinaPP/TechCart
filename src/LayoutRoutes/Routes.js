@@ -4,7 +4,7 @@ import Footer from '../Components/Footer'
 import Home from '../Components/Home'
 import Logout from '../Components/Logout'
 import ProductDetails from '../Components/ProductDetails'
-import { BrowserRouter as Router,Route,Routes } from 'react-router-dom'
+import { BrowserRouter as Router,Route,Routes} from 'react-router-dom'
 
 function LayoutRoutes() {
   return (
