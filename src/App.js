@@ -1,6 +1,5 @@
 import React from 'react'
-import { Routes } from 'react-router-dom'
-import LayoutRoutes from './LayoutRoutes/Routes'
+import LayoutRoutes from './LayoutRoutes/RoutesLayout'
 
 function App() {
   return (

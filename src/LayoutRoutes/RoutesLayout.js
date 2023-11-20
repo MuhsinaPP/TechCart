@@ -6,7 +6,7 @@ import Logout from '../Components/Logout'
 import ProductDetails from '../Components/ProductDetails'
 import { BrowserRouter as Router,Route,Routes} from 'react-router-dom'
 
-function LayoutRoutes() {
+function RoutesLayout() {
   return (
     <>
     <Router>
@@ -23,4 +23,4 @@ function LayoutRoutes() {
   )
 }
 
-export default LayoutRoutes
+export default RoutesLayout
